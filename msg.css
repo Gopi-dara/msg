@@ -1,0 +1,17 @@
+body{
+    background-image: url(mass.jpg);
+}
+div{
+    text-align: center;
+    margin-top: -5px;
+    color: black;
+    background-color: antiquewhite;
+    width: 500px;
+    margin-left: 350px;
+    height: 500px;
+    ma
+}
+button:hover{
+    background-color: aqua;
+    box-shadow: 0 0 20px white;
+}
